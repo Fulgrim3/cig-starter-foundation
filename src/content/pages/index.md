@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Our Services your needs
+tagline: Helping our Clients Develop Successful Strategies
+featuredImage: https://www.nj.gov/sci/pics/50thumb.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Capital Impact Group (CIG) is a full-service, bi-partisan and diverse public affairs and business development firm that advocates for its clients at all levels of government.
